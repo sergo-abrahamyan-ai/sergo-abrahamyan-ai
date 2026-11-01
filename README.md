@@ -14,9 +14,6 @@ I build AI automations that save businesses time and bring them more clients.
 ### Stack
 `n8n` `Make.com` `Zapier` `ManyChat` `OpenAI API` `Claude API` `AI Agents` `RAG` `MCP` `Airtable` `Supabase` `JavaScript` `TypeScript` `React` `Next.js`
 
-### Projects
-- **[AI Clinic Administrator](https://github.com/sergo-abrahamyan-ai/ai-clinic-admin-n8n)** — n8n AI agent that answers patients, shares prices and collects bookings in 3 languages
-
 ### Contact
 - LinkedIn: [sergo-abrahamyan](https://www.linkedin.com/in/sergo-abrahamyan-2b6290432/)
 - Instagram: [@syncronix__ai](https://www.instagram.com/syncronix__ai/)
