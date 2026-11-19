@@ -27,6 +27,7 @@ Each repo has the exported n8n workflow (secrets removed), setup steps and a dem
 `n8n` `Make.com` `Zapier` `ManyChat` `OpenAI API` `Claude API` `AI Agents` `RAG` `MCP` `Airtable` `Supabase` `JavaScript` `TypeScript` `React` `Next.js`
 
 ### Contact
+- Portfolio (videos + live demos): [sergoportfolio.netlify.app](https://sergoportfolio.netlify.app)
 - LinkedIn: [sergo-abrahamyan](https://www.linkedin.com/in/sergo-abrahamyan-2b6290432/)
 - Instagram: [@syncronix__ai](https://www.instagram.com/syncronix__ai/)
 - Website: [syncronix-ai.netlify.app](https://syncronix-ai.netlify.app)
